@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+
+RewriteEngine On
+RewriteRule .* https://autoboost.github.io [R,L]
+
+</IfModule>
